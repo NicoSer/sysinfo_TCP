@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 License Information
+    url: https://github.com/NicoSer/sysinfo_TCP/blob/main/LICENSE.md
+    about: Please read the license before suggesting changes. Pull requests are not accepted.
+  - name: 🐞 Report a Bug
+    url: https://github.com/NicoSer/sysinfo_TCP/issues/new?template=bug_report.md
+    about: Found something broken or unexpected? Open a bug report here.
+  - name: 🌟 Request a Feature
+    url: https://github.com/NicoSer/sysinfo_TCP/issues/new?template=feature_request.md
+    about: Suggest a new feature or improvement for this project.
