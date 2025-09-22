@@ -1,19 +1,24 @@
-## License 📜
+## License
 
 This project is licensed under the  
 **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License**  
-([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)).
+(CC BY-NC-ND 4.0).
 
-### ✅ What you CAN do
-- **Use** the scripts for personal, educational, or organizational purposes.  
-- **Share/distribute** the scripts **as-is** (no changes) with proper credit.  
-- **Run** the scripts from the provided USB image or your own setup.  
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-### ❌ What you CANNOT do
-- **Modify** the scripts or create derivative versions.  
-- **Sell** the scripts, the USB image, or any distribution containing them.  
-- **Redistribute** them for commercial purposes.  
+### Summary
+- ✅ You can use the scripts and programs (`sysinfo.sh`, `sc_kb.py`, `LogViewer.jar`) for personal, educational, or organizational purposes.  
+- ✅ You can share or redistribute the project **as-is** (no changes) with proper credit.  
+- ❌ You cannot modify the scripts, `.jar` file, or create derivative works.  
+- ❌ You cannot sell or redistribute the project for commercial purposes.  
 
-In plain words:  
-> You can **use it and share it for free with attribution**.  
-> You **cannot change it or make money from it**.
+### Attribution
+When redistributing, you **must** provide credit.  
+
+**Example format:**
+
+Scripts: sysinfo.sh, sc_kb.py, and LogViewer.jar
+Author: NicoSer
+License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+For full details, see the [LICENSE.md](./LICENSE.md) file.
