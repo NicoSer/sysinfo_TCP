@@ -17,4 +17,4 @@ For that reason, **pull requests cannot be accepted**.
 ---
 
 👉 Please close this pull request and instead create an **Issue** here:  
-[Open an Issue](https://github.com/YourUser/sysinfo_TCP/issues/new/choose)
+[Open an Issue](https://github.com/NicoSer/sysinfo_TCP/issues/new/choose)
