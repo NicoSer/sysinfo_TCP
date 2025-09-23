@@ -37,7 +37,8 @@ It runs from a **bootable USB** (Ubuntu Server 24.04.3 LTS, lightweight build, S
 - Someone with **physical access** to the USB can modify the image.  
 - Logs are transmitted in plain TCP (unencrypted).  
 - Network setup requires SSID/password input for Wi-Fi.  
-- RAID controllers will not be fully detected; Sysinfo includes a fallback to handle this gracefully by showing how to switch to AHCI.  
+  - This is only prompted once, since the configuration is saved for future runs.  
+- RAID controllers will not be fully detected; Sysinfo includes a fallback to handle this gracefully by showing how to switch to AHCI per vendor.  
 
 ---
 
