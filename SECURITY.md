@@ -39,8 +39,12 @@ It runs from a **bootable USB** (Ubuntu Server 24.04.3 LTS, lightweight build, S
 - Network setup requires SSID/password input for Wi-Fi.  
   - This is only prompted once, since the configuration is saved for future runs.  
 - RAID controllers will not be fully detected; Sysinfo includes a fallback to handle this gracefully by showing how to switch to AHCI per vendor.  
+- These scripts are designed to run inside the preconfigured `sysinfo.img`.  
+  - The image ships with all required dependencies pre-installed (`inxi`, `smartctl`, `evdev`, etc.).  
+  - The default environment uses the **roots** user. Running outside of `sysinfo.img` may require adjusting file paths or usernames.  
 
 ---
+
 
 ## Future Options (Available on Request)
 
