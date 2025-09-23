@@ -78,5 +78,8 @@ If the script is accidentally interrupted (user exits to shell):
    sudo -s
    # Password: 1
 
-   
+   ---
 
+## Boot Flow Diagram
+
+![Sysinfo Boot Flow](https://github.com/NicoSer/sysinfo_TCP/blob/main/bootflow.png)
